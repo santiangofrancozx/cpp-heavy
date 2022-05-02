@@ -1,2 +1,2 @@
-# cpp-heavy
-cpp exercises, 'heavy' 
+# c++
+c++ exercises, 'heavy' 
